@@ -1,15 +1,9 @@
 ---
 layout: single
-permalink: /CV/
+permalink: /CV
 ---
-
-Voici mon CV.
- **test du gras**
-
-
-
- test de l'image
-
- # titre 1 
- ## titre 2 
-m
+<a href="/assets/pdf/CV_ThomasVercier.pdf" download class="télécharger">
+  <i class="télécharger"> CLIQUEZ POUR TELECHARGER LE EN CV PDF </i>
+</a>
+![image cv](/assets/images/CV_ThomasVercier.jpg)
+>
